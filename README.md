@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/product-review-card-using-css-sass-GEEET03UPw](https://www.frontendmentor.io/solutions/product-review-card-using-css-sass-GEEET03UPw)
-- Live Site URL: [https://nt-squared.github.io/product-preview-card-component-main/](https://nt-squared.github.io/product-preview-card-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-jZhaU32FdO](https://www.frontendmentor.io/solutions/qr-code-component-jZhaU32FdO)
+- Live Site URL: [https://nt-squared.github.io/QR-code-component/](https://nt-squared.github.io/QR-code-component/)
 
 ## My process
 
